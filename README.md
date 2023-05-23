@@ -37,6 +37,8 @@ or
 npm run dev
 ```
 
+https://discord.com/api/oauth2/authorize?client_id=1109128735543795782&permissions=52224&scope=bot
+
 ## Usage
 The website will be up @ http://localhost:443 (unless you've changed the config)
 
